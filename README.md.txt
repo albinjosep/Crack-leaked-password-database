@@ -48,13 +48,3 @@ As a result of the analysis the following uplifts are proposed to increase the o
 •	Educate users on the benefits of passwords managers. Having a password manager allows having very long and completely random passwords (e.g. T<?{fjhsdf659dqmlpd4J)SDZUYET) without the need to remember/write down. A strong passphrase is still required as a master key for to access the password manager.
 
 
-### [OUTPUT FILE](https://github.com/TSG405/Goldman-Sachs--Crack-Leaked-Password-Database/blob/main/Output/Extracted%20PWDs.txt)
-
-## Certificate
-
-<h2 align="center">
-    <img src="https://github.com/TSG405/Goldman-Sachs--Crack-Leaked-Password-Database/blob/main/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_SENY25FNN2EewjQjq_completion_certificate.jpg" alt="Here goes my Virtual Internship Certificate!">
-</h2>
-
-### Happy Cracking!! ( ͡❛ ͜ʖ ͡❛) ✌
-## @ TSG405
